@@ -2,7 +2,7 @@ import ollama
 
 def agente_interativo():
     print("="*40)
-    print("🤖 AGENTE DE IA - TCC SENAI-SP (MISTRAL)")
+    print("AGENTE DE IA - (MISTRAL)")
     print("Instruções: Digite sua pergunta ou 'sair' para encerrar.")
     print("="*40)
 
@@ -32,4 +32,5 @@ def agente_interativo():
 
 if __name__ == "__main__":
     agente_interativo()
+
 
